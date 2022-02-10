@@ -1,1 +1,1 @@
-# Space travel website being creted for practice purposes.
+# Space travel website being created for practice purposes.
